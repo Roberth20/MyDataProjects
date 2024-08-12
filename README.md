@@ -62,9 +62,11 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 Please ensure your contributions adhere to the existing project style.
 
 ## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or inquiries, feel free to reach out:
 
 Email: marcanoroberth98@gmail.com
+
 GitHub: Roberth20

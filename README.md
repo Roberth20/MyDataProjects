@@ -16,7 +16,7 @@ This repository is a curated collection of data science projects that demonstrat
 
 ## Projects
 Here’s a brief overview of the projects included in this repository:
-* **Worldwide Coffee Consumption:** <br> Description: This projects aim to apply knowledges of Data Cleaning and transforming to perform a Exploratory Data Analysis in a dataset with Coffee consumptions in more than 20 years \ Technologies: Python, Notebooks, Dash, Plotly, Pandas
+* **Worldwide Coffee Consumption:** <br> Description: This projects aim to apply knowledges of Data Cleaning and transforming to perform a Exploratory Data Analysis in a dataset with Coffee consumptions in more than 20 years <br> Technologies: Python, Notebooks, Dash, Plotly, Pandas
 
 ## Getting Started
 To get started with any of these projects, you'll need to set up a conda environment and install the necessary dependencies.

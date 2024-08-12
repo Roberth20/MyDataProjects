@@ -1,0 +1,12 @@
+name: MA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - matplotlib=3.9.1
+  - numpy=2.0.1
+  - pandas=2.2.2
+  - plotly=5.23.0
+  - dash=2.17.1
+  - dash-bootstrap-components=1.6.0

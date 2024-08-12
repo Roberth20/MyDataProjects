@@ -3,13 +3,13 @@
 Welcome to my Data Science Projects repository! Here, you'll find a collection of projects showcasing Exploratory Data Analysis (EDA) and Machine Learning applications across various fields. Each project aims to highlight different aspects of data science, from data preprocessing to model deployment.
 
 ## Table of Contents
-* [Introduction](https://github.com/Roberth20/MyDataProjects/edit/master/README.md#introduction)
-* [Projects](https://github.com/Roberth20/MyDataProjects/edit/master/README.md#projects)
-* [Getting Started](https://github.com/Roberth20/MyDataProjects/edit/master/README.md#getting-started)
-* [Usage](https://github.com/Roberth20/MyDataProjects/edit/master/README.md#usage)
-* [Contributing](https://github.com/Roberth20/MyDataProjects/edit/master/README.md#contributing)
-* [License](https://github.com/Roberth20/MyDataProjects/edit/master/README.md#license)
-* [Contact](https://github.com/Roberth20/MyDataProjects/edit/master/README.md#contact)
+* [Introduction](https://github.com/Roberth20/MyDataProjects/tree/master/README.md#introduction)
+* [Projects](https://github.com/Roberth20/MyDataProjects/tree/master/README.md#projects)
+* [Getting Started](https://github.com/Roberth20/MyDataProjects/tree/master/README.md#getting-started)
+* [Usage](https://github.com/Roberth20/MyDataProjects/tree/master/README.md#usage)
+* [Contributing](https://github.com/Roberth20/MyDataProjects/tree/master/README.md#contributing)
+* [License](https://github.com/Roberth20/MyDataProjects/tree/master/README.md#license)
+* [Contact](https://github.com/Roberth20/MyDataProjects/tree/master/README.md#contact)
 
 ## Introduction
 This repository is a curated collection of data science projects that demonstrate practical applications of EDA and machine learning techniques. Whether you're interested in data exploration, feature engineering, or predictive modeling, you'll find a diverse set of examples here.

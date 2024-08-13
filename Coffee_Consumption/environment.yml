@@ -1,4 +1,4 @@
-name: MA
+name: Coffee
 channels:
   - conda-forge
   - defaults
